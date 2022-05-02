@@ -1,3 +1,12 @@
+# Ignored Files
+checkpoints
+bank_telemarketing.csv
+charity_data.csv
+diabetes.csv
+HR-Employee-Attrition.csv
+ramen-ratings.csv
+untitled_project
+practice.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
